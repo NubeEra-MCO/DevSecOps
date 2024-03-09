@@ -24,7 +24,7 @@ Using any of these apps can be done in 3 quick and simple steps.
 #### 1) Clone the repo
 Clone this repo, or download it any way you prefer
 ```
-git clone https://github.com/eystsen/pentestlab.git
+git clone https://github.com/NubeEra-MCO/DevSecOps.git
 cd pentestlab
 ```
 
